@@ -9,7 +9,6 @@
 - Authors:
   - If one:
     - Replace `AUTHOR_FULL_NAME` with the name of the author
-    - Replace `<AUTHOR_EMAIL>` with the email of the author (keep the <>)
   - Else, make a contributing file
 - Add description of the project and any other pertinent information to README.md
 
@@ -21,7 +20,6 @@
 
   - If one:
     - Replace `AUTHOR_FULL_NAME` with the name of the author
-    - Replace `<AUTHOR_EMAIL>` with the email of the author (keep the <>)
   - Else, make a contributing file
 
 ## package.json
@@ -38,5 +36,5 @@
 
 ## License
 
-Copyright (c) `YEAR/YEARS` `AUTHOR_FULL_NAME` `<AUTHOR_EMAIL>`  
+Copyright (c) `YEAR/YEARS` `AUTHOR_FULL_NAME`  
 MIT License
